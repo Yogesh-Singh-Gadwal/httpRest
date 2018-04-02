@@ -1,0 +1,8 @@
+check if express is installed 
+1 >> install express folderName    
+
+>go inside the folder created by express and folow
+2>> npm install 
+3>> npm init   // after that follow the processes
+
+then open the folder and go to app.js
